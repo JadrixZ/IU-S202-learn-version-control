@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "Ring-tailed Lemur",
+    "scientificName": "Lemur catta",
+    "habitat": "Gallery forests and spiny deciduous forests in southern Madagascar",
+    "description": "A well-known primate native to Madagascar, easily recognized by its long, black and white ringed tail."
   }
 ]
