@@ -34,5 +34,11 @@
     "scientificName": "Lemur catta",
     "habitat": "Gallery forests and spiny deciduous forests in southern Madagascar",
     "description": "A well-known primate native to Madagascar, easily recognized by its long, black and white ringed tail."
+  },
+  {
+    "commonName": "Maine Coon",
+    "scientificName": "Felis catus",
+    "habitat": "Domestic environments; one of the oldest natural breeds in North America, native to the state of Maine",
+    "description": "A large and sociable domestic cat breed, known for its shaggy coat, rectangular body structure, and strong hunting instincts."
   }
 ]
